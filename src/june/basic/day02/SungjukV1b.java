@@ -1,4 +1,4 @@
-package joseph.basic.day02;
+package june.basic.day02;
 
 import java.util.Scanner;
 
@@ -57,7 +57,7 @@ public class SungjukV1b {
 		System.out.printf(fmt, name, korean, english, math);
 
 		// 총점 : , 평균, 학점
-		String fmt = "총점 : %d , 평균 : %.1f, 성적 : %c";
+		 fmt = "총점 : %d , 평균 : %.1f, 성적 : %c";
 		System.out.printf(fmt, tot, avg, grd);
 
 	}

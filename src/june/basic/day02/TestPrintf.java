@@ -1,4 +1,4 @@
-package joseph.basic.day02;
+package june.basic.day02;
 
 public class TestPrintf {
 	public static void main(String[] args) {
