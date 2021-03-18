@@ -1,4 +1,4 @@
-package joseph.basic.day03;
+package june.basic.day03;
 
 import java.util.Scanner;
 

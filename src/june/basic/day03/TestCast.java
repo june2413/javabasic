@@ -1,4 +1,4 @@
-package joseph.basic.day03;
+package june.basic.day03;
 
 public class TestCast {
 	public static void main(String[] args) {
