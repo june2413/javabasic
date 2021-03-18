@@ -1,4 +1,4 @@
-package joseph.basic.day01;
+package june.basic.day01;
 
 public class QUESTION6 {
 	public static void main(String[] args) {

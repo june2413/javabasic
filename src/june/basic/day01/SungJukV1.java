@@ -1,4 +1,4 @@
-package joseph.basic.day01;
+package june.basic.day01;
 
 /*
  * @author Joseph 
