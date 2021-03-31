@@ -14,4 +14,7 @@ public class SungJukV5bMain {
         sjsrv.computeSungJuk(sj);
         sjsrv.printSungJuk(sj);
     }
+
 }
+
+
