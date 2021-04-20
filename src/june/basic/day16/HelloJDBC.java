@@ -22,7 +22,7 @@ public class HelloJDBC {
 
         // amazon 데이터베이스 접속 확인
         String drv = "org.mariadb.jdbc.Driver";
-        String amz = "bigdata.chrpnj0d47aq.ap-northeast-2.rds.amazonaws.com";
+        String amz = "";
         String url = "jdbc:mariadb://"+amz+":3306/bigdata";
         String usr = "bigdata";
         String pwd = "bigdata2020";
